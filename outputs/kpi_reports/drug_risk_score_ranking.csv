@@ -1,0 +1,26 @@
+Drug_Name,Total_Reports,Fatal_Events,Serious_Events,Hospitalizations,New_Signals,Risk_Score
+Amlodipine,408,15,114,84,6,591
+Doxorubicin,387,14,114,76,5,569
+Clopidogrel,361,12,113,78,6,561
+Levothyroxine,364,13,109,81,4,558
+Ciprofloxacin,386,10,114,79,5,555
+Paclitaxel,364,7,115,85,5,555
+Hydrochlorothiazide,363,11,113,72,6,544
+Insulin Glargine,342,17,101,70,4,532
+Losartan,358,13,104,74,6,531
+Amoxicillin,326,10,105,76,5,522
+Warfarin,359,10,104,77,6,522
+Azithromycin,357,10,105,74,5,518
+Atorvastatin,368,11,107,68,6,518
+Methotrexate,352,5,107,79,5,509
+Omeprazole,381,11,101,73,4,508
+Sertraline,377,15,92,69,4,493
+Ibuprofen,356,12,95,65,4,479
+Trastuzumab,372,7,100,67,5,474
+Metoprolol,369,10,96,62,6,468
+Gabapentin,359,14,88,62,4,462
+Cetuximab,360,11,89,66,5,459
+Diclofenac,346,7,93,66,4,450
+Metformin,338,10,89,64,4,449
+Rituximab,324,8,87,64,5,434
+Prednisone,323,8,83,58,4,409

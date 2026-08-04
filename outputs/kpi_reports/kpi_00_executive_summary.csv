@@ -1,0 +1,8 @@
+KPI,Value
+Total_ADR_Reports,9000
+Serious_ADR_Pct,28.2
+Fatal_Event_Rate_Pct,3.01
+Hospitalization_Rate_Pct,19.88
+Avg_Time_to_Onset_Days,685.2
+Repeat_Rechallenge_Pct,6.59
+Note_Reporting_Timeliness,See reporter_table_clean.csv (Reporting_Date) vs Event_Date for timeliness analysis

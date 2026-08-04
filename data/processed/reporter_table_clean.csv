@@ -1,0 +1,801 @@
+Reporter_ID,Reporter_Type,Hospital,Country,Reporting_Date
+R00001,Physician,City General Hospital,Australia,2020-07-13
+R00002,Lawyer,St. Mary's Medical Center,United States,2020-06-08
+R00003,Lawyer,St. Mary's Medical Center,United States,2019-07-31
+R00004,Lawyer,National Care Hospital,Canada,2022-02-02
+R00005,Patient,City General Hospital,Australia,2022-06-19
+R00006,Physician,City General Hospital,Brazil,2023-03-05
+R00007,Other Health Professional,St. Mary's Medical Center,Brazil,2023-07-12
+R00008,Lawyer,Sunrise Medical Institute,Canada,2023-08-26
+R00009,Physician,Sunrise Medical Institute,Japan,2022-10-22
+R00010,Nurse,Sunrise Medical Institute,Germany,2021-08-27
+R00011,Lawyer,Sunrise Medical Institute,France,2020-03-29
+R00012,Other Health Professional,National Care Hospital,India,2021-11-03
+R00013,Lawyer,Sunrise Medical Institute,United Kingdom,2023-03-30
+R00014,Pharmacist,St. Mary's Medical Center,India,2019-07-13
+R00015,Other Health Professional,Central Regional Hospital,Australia,2023-11-13
+R00016,Physician,Sunrise Medical Institute,Germany,2019-07-09
+R00017,Nurse,Metro Health Clinic,Canada,2019-12-09
+R00018,Lawyer,City General Hospital,Germany,2021-12-12
+R00019,Physician,Sunrise Medical Institute,Australia,2023-02-15
+R00020,Lawyer,St. Mary's Medical Center,Japan,2021-02-19
+R00021,Physician,National Care Hospital,South Africa,2019-03-04
+R00022,Nurse,Metro Health Clinic,Brazil,2019-10-24
+R00023,Patient,Central Regional Hospital,France,2023-02-06
+R00024,Pharmacist,National Care Hospital,Canada,2023-03-24
+R00025,Physician,Central Regional Hospital,Germany,2020-02-27
+R00026,Nurse,Central Regional Hospital,Canada,2019-06-26
+R00027,Patient,Metro Health Clinic,France,2022-01-04
+R00028,Other Health Professional,Central Regional Hospital,Germany,2022-11-12
+R00029,Physician,St. Mary's Medical Center,Germany,2021-05-02
+R00030,Pharmacist,St. Mary's Medical Center,Canada,2022-04-13
+R00031,Patient,Metro Health Clinic,United Kingdom,2020-01-11
+R00032,Pharmacist,Central Regional Hospital,Brazil,2021-06-08
+R00033,Other Health Professional,Sunrise Medical Institute,Canada,2019-12-13
+R00034,Physician,City General Hospital,Brazil,2020-10-16
+R00035,Other Health Professional,St. Mary's Medical Center,Canada,2020-06-30
+R00036,Other Health Professional,Central Regional Hospital,South Africa,2019-02-05
+R00037,Patient,National Care Hospital,France,2021-05-19
+R00038,Lawyer,Central Regional Hospital,India,2021-11-17
+R00039,Lawyer,St. Mary's Medical Center,India,2020-01-18
+R00040,Other Health Professional,City General Hospital,United States,2019-06-14
+R00041,Physician,Metro Health Clinic,Germany,2021-12-10
+R00042,Nurse,National Care Hospital,France,2019-07-11
+R00043,Lawyer,Metro Health Clinic,India,2024-12-30
+R00044,Other Health Professional,Metro Health Clinic,United Kingdom,2019-03-27
+R00045,Pharmacist,St. Mary's Medical Center,Canada,2024-04-18
+R00046,Other Health Professional,St. Mary's Medical Center,South Africa,2024-12-08
+R00047,Pharmacist,St. Mary's Medical Center,Japan,2019-02-03
+R00048,Other Health Professional,City General Hospital,Canada,2022-01-02
+R00049,Lawyer,Central Regional Hospital,France,2023-08-04
+R00050,Patient,Metro Health Clinic,Japan,2023-01-01
+R00051,Other Health Professional,St. Mary's Medical Center,Australia,2021-05-23
+R00052,Pharmacist,City General Hospital,Germany,2020-02-14
+R00053,Pharmacist,Metro Health Clinic,Canada,2022-04-25
+R00054,Lawyer,City General Hospital,India,2021-12-07
+R00055,Other Health Professional,Metro Health Clinic,Canada,2023-07-22
+R00056,Pharmacist,St. Mary's Medical Center,United Kingdom,2020-05-08
+R00057,Lawyer,Sunrise Medical Institute,Japan,2021-12-27
+R00058,Lawyer,Metro Health Clinic,Australia,2022-02-14
+R00059,Lawyer,National Care Hospital,South Africa,2022-05-29
+R00060,Nurse,City General Hospital,Japan,2022-06-25
+R00061,Nurse,National Care Hospital,Germany,2020-12-26
+R00062,Patient,Central Regional Hospital,United States,2020-01-17
+R00063,Pharmacist,Sunrise Medical Institute,India,2024-05-18
+R00064,Other Health Professional,St. Mary's Medical Center,Canada,2022-01-10
+R00065,Lawyer,National Care Hospital,India,2023-07-10
+R00066,Other Health Professional,Metro Health Clinic,Brazil,2020-06-25
+R00067,Lawyer,St. Mary's Medical Center,Brazil,2021-12-17
+R00068,Patient,St. Mary's Medical Center,United States,2020-04-02
+R00069,Patient,Central Regional Hospital,United Kingdom,2023-08-20
+R00070,Lawyer,National Care Hospital,Australia,2019-09-04
+R00071,Other Health Professional,Sunrise Medical Institute,United Kingdom,2019-04-19
+R00072,Patient,St. Mary's Medical Center,United States,2021-11-11
+R00073,Pharmacist,Sunrise Medical Institute,India,2024-05-15
+R00074,Lawyer,Sunrise Medical Institute,United Kingdom,2019-12-24
+R00075,Lawyer,Sunrise Medical Institute,India,2020-10-09
+R00076,Pharmacist,Central Regional Hospital,Brazil,2024-09-20
+R00077,Other Health Professional,Sunrise Medical Institute,Japan,2019-02-23
+R00078,Nurse,Metro Health Clinic,United States,2024-12-19
+R00079,Other Health Professional,City General Hospital,Brazil,2023-01-27
+R00080,Nurse,National Care Hospital,Germany,2020-01-20
+R00081,Nurse,National Care Hospital,France,2024-03-01
+R00082,Lawyer,National Care Hospital,Germany,2020-10-21
+R00083,Pharmacist,Metro Health Clinic,United Kingdom,2024-03-07
+R00084,Nurse,Metro Health Clinic,Brazil,2024-09-01
+R00085,Nurse,City General Hospital,Japan,2023-08-05
+R00086,Lawyer,City General Hospital,India,2024-01-27
+R00087,Lawyer,St. Mary's Medical Center,United Kingdom,2022-04-27
+R00088,Nurse,Metro Health Clinic,United States,2021-12-07
+R00089,Pharmacist,St. Mary's Medical Center,India,2020-01-01
+R00090,Other Health Professional,Metro Health Clinic,Australia,2024-11-04
+R00091,Pharmacist,City General Hospital,Brazil,2020-02-15
+R00092,Other Health Professional,Sunrise Medical Institute,South Africa,2021-09-30
+R00093,Other Health Professional,Central Regional Hospital,Germany,2021-08-17
+R00094,Physician,St. Mary's Medical Center,Japan,2021-01-29
+R00095,Patient,National Care Hospital,South Africa,2019-10-10
+R00096,Lawyer,National Care Hospital,Australia,2023-12-02
+R00097,Pharmacist,Sunrise Medical Institute,Germany,2021-04-04
+R00098,Patient,Metro Health Clinic,United States,2023-03-29
+R00099,Other Health Professional,Central Regional Hospital,Canada,2019-03-17
+R00100,Lawyer,Metro Health Clinic,South Africa,2024-06-20
+R00101,Lawyer,Sunrise Medical Institute,Brazil,2023-08-05
+R00102,Pharmacist,City General Hospital,United Kingdom,2019-03-16
+R00103,Pharmacist,City General Hospital,India,2023-01-31
+R00104,Nurse,Central Regional Hospital,United Kingdom,2020-10-24
+R00105,Patient,National Care Hospital,South Africa,2023-11-04
+R00106,Patient,National Care Hospital,Brazil,2021-06-30
+R00107,Physician,St. Mary's Medical Center,India,2023-11-16
+R00108,Pharmacist,City General Hospital,India,2022-01-02
+R00109,Nurse,Central Regional Hospital,Canada,2021-12-02
+R00110,Nurse,Metro Health Clinic,Brazil,2021-01-09
+R00111,Patient,Central Regional Hospital,Australia,2021-07-19
+R00112,Nurse,Metro Health Clinic,United States,2022-08-21
+R00113,Other Health Professional,Metro Health Clinic,Brazil,2020-09-23
+R00114,Other Health Professional,St. Mary's Medical Center,France,2019-02-26
+R00115,Pharmacist,Sunrise Medical Institute,Australia,2019-08-09
+R00116,Other Health Professional,St. Mary's Medical Center,South Africa,2022-02-28
+R00117,Other Health Professional,Central Regional Hospital,Australia,2020-09-05
+R00118,Other Health Professional,Sunrise Medical Institute,Australia,2023-07-23
+R00119,Patient,Central Regional Hospital,Brazil,2019-03-01
+R00120,Nurse,Metro Health Clinic,United Kingdom,2021-01-07
+R00121,Lawyer,St. Mary's Medical Center,France,2019-05-12
+R00122,Physician,National Care Hospital,United Kingdom,2020-02-27
+R00123,Lawyer,St. Mary's Medical Center,Canada,2023-12-29
+R00124,Physician,City General Hospital,Brazil,2021-12-03
+R00125,Other Health Professional,Metro Health Clinic,United States,2019-08-05
+R00126,Pharmacist,Sunrise Medical Institute,Canada,2023-12-18
+R00127,Other Health Professional,City General Hospital,United States,2024-04-24
+R00128,Other Health Professional,City General Hospital,Brazil,2021-12-11
+R00129,Nurse,St. Mary's Medical Center,Japan,2019-04-12
+R00130,Lawyer,City General Hospital,Japan,2024-01-06
+R00131,Patient,City General Hospital,Japan,2020-03-05
+R00132,Other Health Professional,National Care Hospital,Canada,2019-01-26
+R00133,Physician,Metro Health Clinic,France,2022-12-01
+R00134,Physician,Central Regional Hospital,United Kingdom,2020-10-19
+R00135,Other Health Professional,City General Hospital,India,2024-02-12
+R00136,Nurse,Central Regional Hospital,United States,2023-06-19
+R00137,Patient,Central Regional Hospital,United Kingdom,2022-06-16
+R00138,Other Health Professional,Central Regional Hospital,South Africa,2021-07-30
+R00139,Lawyer,Sunrise Medical Institute,India,2022-06-23
+R00140,Nurse,Central Regional Hospital,South Africa,2022-06-02
+R00141,Other Health Professional,Metro Health Clinic,Germany,2021-01-31
+R00142,Patient,National Care Hospital,Canada,2024-03-28
+R00143,Nurse,St. Mary's Medical Center,Canada,2022-02-13
+R00144,Lawyer,National Care Hospital,Canada,2022-02-20
+R00145,Pharmacist,Central Regional Hospital,Canada,2022-11-08
+R00146,Pharmacist,National Care Hospital,India,2020-02-20
+R00147,Patient,Sunrise Medical Institute,Brazil,2020-04-10
+R00148,Pharmacist,Metro Health Clinic,India,2023-03-02
+R00149,Other Health Professional,National Care Hospital,Japan,2024-07-17
+R00150,Nurse,National Care Hospital,United Kingdom,2024-07-02
+R00151,Pharmacist,St. Mary's Medical Center,Brazil,2022-01-22
+R00152,Physician,City General Hospital,Germany,2019-12-26
+R00153,Physician,Metro Health Clinic,South Africa,2024-11-13
+R00154,Physician,City General Hospital,India,2019-10-04
+R00155,Physician,Central Regional Hospital,Canada,2020-06-13
+R00156,Lawyer,Sunrise Medical Institute,India,2022-06-05
+R00157,Other Health Professional,National Care Hospital,India,2022-07-07
+R00158,Pharmacist,Sunrise Medical Institute,United States,2022-01-27
+R00159,Pharmacist,Metro Health Clinic,Brazil,2021-02-01
+R00160,Patient,Central Regional Hospital,United States,2020-09-23
+R00161,Lawyer,National Care Hospital,United States,2024-09-15
+R00162,Lawyer,Metro Health Clinic,Canada,2021-01-09
+R00163,Patient,Central Regional Hospital,Japan,2022-01-07
+R00164,Pharmacist,Central Regional Hospital,Japan,2020-11-01
+R00165,Pharmacist,National Care Hospital,South Africa,2024-03-06
+R00166,Lawyer,Metro Health Clinic,France,2020-03-18
+R00167,Lawyer,St. Mary's Medical Center,United States,2023-07-20
+R00168,Pharmacist,Sunrise Medical Institute,Canada,2024-06-04
+R00169,Pharmacist,Central Regional Hospital,India,2020-09-02
+R00170,Physician,Sunrise Medical Institute,France,2024-11-13
+R00171,Nurse,Central Regional Hospital,Japan,2021-09-13
+R00172,Patient,Metro Health Clinic,United States,2022-12-06
+R00173,Lawyer,City General Hospital,United Kingdom,2020-12-07
+R00174,Nurse,National Care Hospital,South Africa,2024-10-04
+R00175,Pharmacist,Sunrise Medical Institute,Japan,2024-08-16
+R00176,Pharmacist,National Care Hospital,Australia,2022-02-14
+R00177,Pharmacist,Central Regional Hospital,France,2021-03-30
+R00178,Nurse,City General Hospital,Japan,2022-02-04
+R00179,Nurse,Metro Health Clinic,Canada,2024-02-19
+R00180,Pharmacist,National Care Hospital,South Africa,2022-08-29
+R00181,Lawyer,City General Hospital,France,2020-11-13
+R00182,Pharmacist,St. Mary's Medical Center,Australia,2019-03-28
+R00183,Lawyer,City General Hospital,United States,2020-08-23
+R00184,Other Health Professional,City General Hospital,France,2020-12-06
+R00185,Other Health Professional,St. Mary's Medical Center,Japan,2024-05-27
+R00186,Nurse,St. Mary's Medical Center,United States,2023-09-25
+R00187,Pharmacist,City General Hospital,Germany,2020-08-26
+R00188,Patient,Sunrise Medical Institute,United States,2024-10-06
+R00189,Nurse,Sunrise Medical Institute,United Kingdom,2021-04-18
+R00190,Pharmacist,St. Mary's Medical Center,Germany,2020-12-15
+R00191,Nurse,Metro Health Clinic,Germany,2024-07-20
+R00192,Patient,City General Hospital,Australia,2022-01-02
+R00193,Lawyer,Central Regional Hospital,India,2021-05-27
+R00194,Other Health Professional,Central Regional Hospital,South Africa,2021-11-07
+R00195,Lawyer,St. Mary's Medical Center,Germany,2022-01-15
+R00196,Pharmacist,St. Mary's Medical Center,Germany,2021-05-29
+R00197,Nurse,National Care Hospital,France,2024-08-18
+R00198,Other Health Professional,National Care Hospital,India,2020-05-04
+R00199,Physician,Sunrise Medical Institute,France,2019-07-05
+R00200,Physician,St. Mary's Medical Center,United Kingdom,2021-03-17
+R00201,Lawyer,Metro Health Clinic,Germany,2024-01-02
+R00202,Nurse,Central Regional Hospital,Brazil,2019-11-27
+R00203,Pharmacist,St. Mary's Medical Center,Canada,2022-05-21
+R00204,Nurse,Sunrise Medical Institute,South Africa,2019-04-25
+R00205,Nurse,St. Mary's Medical Center,Germany,2024-07-09
+R00206,Patient,St. Mary's Medical Center,United States,2022-11-06
+R00207,Other Health Professional,Metro Health Clinic,United States,2021-06-13
+R00208,Patient,Metro Health Clinic,United Kingdom,2024-11-19
+R00209,Physician,National Care Hospital,United States,2020-08-17
+R00210,Patient,National Care Hospital,United Kingdom,2021-10-06
+R00211,Patient,National Care Hospital,Brazil,2023-11-16
+R00212,Other Health Professional,National Care Hospital,Canada,2024-09-10
+R00213,Lawyer,Metro Health Clinic,Canada,2020-01-19
+R00214,Nurse,St. Mary's Medical Center,Australia,2021-08-17
+R00215,Other Health Professional,City General Hospital,Germany,2021-05-17
+R00216,Lawyer,Sunrise Medical Institute,Japan,2021-10-07
+R00217,Other Health Professional,Central Regional Hospital,Japan,2019-08-18
+R00218,Physician,Sunrise Medical Institute,Germany,2024-02-22
+R00219,Other Health Professional,City General Hospital,Germany,2024-03-12
+R00220,Lawyer,National Care Hospital,Germany,2019-06-29
+R00221,Other Health Professional,Sunrise Medical Institute,Brazil,2022-02-20
+R00222,Lawyer,St. Mary's Medical Center,Canada,2020-10-10
+R00223,Patient,Central Regional Hospital,United Kingdom,2022-09-04
+R00224,Physician,National Care Hospital,United States,2024-01-04
+R00225,Nurse,Central Regional Hospital,Brazil,2019-09-18
+R00226,Patient,National Care Hospital,Japan,2022-09-25
+R00227,Physician,City General Hospital,France,2024-05-19
+R00228,Nurse,Metro Health Clinic,South Africa,2024-01-31
+R00229,Physician,Central Regional Hospital,Canada,2024-09-12
+R00230,Patient,Central Regional Hospital,Canada,2020-05-24
+R00231,Lawyer,Central Regional Hospital,Australia,2024-10-28
+R00232,Pharmacist,Metro Health Clinic,South Africa,2019-08-03
+R00233,Lawyer,Central Regional Hospital,United States,2020-07-09
+R00234,Pharmacist,Metro Health Clinic,India,2019-02-09
+R00235,Physician,Metro Health Clinic,Brazil,2024-12-24
+R00236,Pharmacist,Sunrise Medical Institute,United Kingdom,2019-03-16
+R00237,Pharmacist,Sunrise Medical Institute,United States,2019-08-13
+R00238,Nurse,St. Mary's Medical Center,India,2021-02-18
+R00239,Pharmacist,City General Hospital,Germany,2021-10-18
+R00240,Physician,Metro Health Clinic,Australia,2023-02-21
+R00241,Lawyer,Sunrise Medical Institute,India,2024-10-09
+R00242,Other Health Professional,Sunrise Medical Institute,Canada,2024-08-04
+R00243,Pharmacist,Central Regional Hospital,South Africa,2021-07-24
+R00244,Patient,Sunrise Medical Institute,United States,2020-06-29
+R00245,Pharmacist,Central Regional Hospital,South Africa,2020-08-09
+R00246,Other Health Professional,City General Hospital,United States,2023-06-11
+R00247,Nurse,National Care Hospital,Canada,2023-09-15
+R00248,Physician,St. Mary's Medical Center,Australia,2023-08-26
+R00249,Other Health Professional,City General Hospital,South Africa,2019-09-18
+R00250,Patient,City General Hospital,Canada,2021-11-20
+R00251,Other Health Professional,Central Regional Hospital,France,2023-04-05
+R00252,Nurse,Sunrise Medical Institute,India,2021-11-16
+R00253,Physician,City General Hospital,India,2020-05-06
+R00254,Pharmacist,National Care Hospital,Germany,2022-11-06
+R00255,Patient,St. Mary's Medical Center,United States,2022-08-15
+R00256,Lawyer,City General Hospital,Australia,2020-02-24
+R00257,Other Health Professional,Metro Health Clinic,Germany,2024-07-17
+R00258,Pharmacist,Central Regional Hospital,Canada,2021-07-07
+R00259,Nurse,St. Mary's Medical Center,India,2021-01-06
+R00260,Pharmacist,National Care Hospital,Germany,2022-11-09
+R00261,Physician,Central Regional Hospital,Japan,2021-09-15
+R00262,Lawyer,National Care Hospital,France,2021-06-26
+R00263,Patient,National Care Hospital,Canada,2021-08-15
+R00264,Patient,St. Mary's Medical Center,Canada,2023-02-05
+R00265,Lawyer,Sunrise Medical Institute,Australia,2023-12-11
+R00266,Nurse,St. Mary's Medical Center,Japan,2022-01-31
+R00267,Nurse,Central Regional Hospital,Canada,2023-06-03
+R00268,Physician,Sunrise Medical Institute,France,2022-03-19
+R00269,Lawyer,Sunrise Medical Institute,France,2021-08-09
+R00270,Patient,Central Regional Hospital,Japan,2024-08-26
+R00271,Other Health Professional,St. Mary's Medical Center,South Africa,2023-06-29
+R00272,Patient,St. Mary's Medical Center,France,2020-01-18
+R00273,Other Health Professional,City General Hospital,Australia,2019-03-21
+R00274,Physician,City General Hospital,United States,2019-09-21
+R00275,Patient,Sunrise Medical Institute,United Kingdom,2024-05-28
+R00276,Other Health Professional,St. Mary's Medical Center,France,2020-04-23
+R00277,Nurse,City General Hospital,South Africa,2021-04-12
+R00278,Physician,St. Mary's Medical Center,Germany,2024-06-08
+R00279,Lawyer,Sunrise Medical Institute,India,2021-01-31
+R00280,Lawyer,St. Mary's Medical Center,Germany,2021-03-25
+R00281,Nurse,Central Regional Hospital,Japan,2024-04-28
+R00282,Lawyer,Metro Health Clinic,Japan,2023-02-21
+R00283,Pharmacist,National Care Hospital,Australia,2022-03-05
+R00284,Pharmacist,Metro Health Clinic,Japan,2024-07-17
+R00285,Lawyer,Central Regional Hospital,Canada,2023-11-29
+R00286,Physician,National Care Hospital,France,2019-11-07
+R00287,Other Health Professional,Central Regional Hospital,Japan,2023-05-07
+R00288,Lawyer,National Care Hospital,India,2020-05-29
+R00289,Other Health Professional,Sunrise Medical Institute,Germany,2021-06-14
+R00290,Physician,Sunrise Medical Institute,Germany,2021-02-21
+R00291,Other Health Professional,St. Mary's Medical Center,United States,2022-07-23
+R00292,Patient,Sunrise Medical Institute,United States,2024-07-09
+R00293,Physician,St. Mary's Medical Center,India,2019-10-14
+R00294,Pharmacist,Metro Health Clinic,Australia,2020-10-22
+R00295,Patient,City General Hospital,United States,2020-04-02
+R00296,Patient,St. Mary's Medical Center,Germany,2020-12-09
+R00297,Lawyer,City General Hospital,South Africa,2022-08-22
+R00298,Patient,St. Mary's Medical Center,Australia,2021-03-29
+R00299,Patient,Central Regional Hospital,Germany,2022-03-26
+R00300,Other Health Professional,Metro Health Clinic,United States,2021-01-22
+R00301,Nurse,Central Regional Hospital,Germany,2020-02-11
+R00302,Pharmacist,St. Mary's Medical Center,United States,2019-08-28
+R00303,Other Health Professional,Central Regional Hospital,India,2019-10-12
+R00304,Other Health Professional,National Care Hospital,France,2020-09-20
+R00305,Lawyer,National Care Hospital,Australia,2023-11-01
+R00306,Physician,National Care Hospital,Germany,2021-04-24
+R00307,Other Health Professional,St. Mary's Medical Center,Canada,2021-12-27
+R00308,Patient,National Care Hospital,Australia,2022-12-05
+R00309,Nurse,Central Regional Hospital,India,2021-11-22
+R00310,Other Health Professional,City General Hospital,Australia,2023-04-09
+R00311,Physician,Sunrise Medical Institute,Germany,2022-04-05
+R00312,Nurse,Sunrise Medical Institute,France,2019-01-12
+R00313,Other Health Professional,Metro Health Clinic,India,2022-12-05
+R00314,Patient,Sunrise Medical Institute,Japan,2021-12-10
+R00315,Other Health Professional,St. Mary's Medical Center,Japan,2022-11-22
+R00316,Physician,City General Hospital,Canada,2019-08-12
+R00317,Other Health Professional,National Care Hospital,South Africa,2023-01-29
+R00318,Nurse,National Care Hospital,Brazil,2024-04-24
+R00319,Pharmacist,Metro Health Clinic,South Africa,2019-07-13
+R00320,Physician,Central Regional Hospital,Germany,2021-10-14
+R00321,Pharmacist,Metro Health Clinic,Japan,2021-01-26
+R00322,Other Health Professional,Metro Health Clinic,Brazil,2022-03-15
+R00323,Physician,National Care Hospital,South Africa,2019-02-18
+R00324,Nurse,Metro Health Clinic,France,2022-07-23
+R00325,Pharmacist,St. Mary's Medical Center,South Africa,2024-04-06
+R00326,Patient,Sunrise Medical Institute,United Kingdom,2023-03-17
+R00327,Nurse,City General Hospital,France,2019-02-14
+R00328,Patient,National Care Hospital,Germany,2021-04-05
+R00329,Other Health Professional,Metro Health Clinic,United States,2023-07-15
+R00330,Patient,Central Regional Hospital,Germany,2019-06-07
+R00331,Lawyer,City General Hospital,Canada,2020-11-26
+R00332,Physician,St. Mary's Medical Center,France,2023-05-18
+R00333,Lawyer,Metro Health Clinic,Japan,2019-10-10
+R00334,Lawyer,St. Mary's Medical Center,South Africa,2021-10-24
+R00335,Other Health Professional,Metro Health Clinic,France,2019-11-24
+R00336,Nurse,Central Regional Hospital,Australia,2022-09-25
+R00337,Physician,Central Regional Hospital,Japan,2022-02-24
+R00338,Other Health Professional,St. Mary's Medical Center,Brazil,2021-01-05
+R00339,Pharmacist,St. Mary's Medical Center,South Africa,2023-07-03
+R00340,Physician,City General Hospital,Canada,2021-08-16
+R00341,Other Health Professional,Central Regional Hospital,France,2022-05-14
+R00342,Pharmacist,Sunrise Medical Institute,United States,2021-02-14
+R00343,Patient,City General Hospital,Canada,2022-12-05
+R00344,Nurse,St. Mary's Medical Center,Brazil,2019-01-25
+R00345,Other Health Professional,St. Mary's Medical Center,India,2020-03-05
+R00346,Physician,City General Hospital,Australia,2023-11-28
+R00347,Pharmacist,Central Regional Hospital,India,2021-12-12
+R00348,Other Health Professional,National Care Hospital,India,2021-10-24
+R00349,Physician,Sunrise Medical Institute,Australia,2021-01-05
+R00350,Nurse,Sunrise Medical Institute,Brazil,2024-06-15
+R00351,Other Health Professional,Sunrise Medical Institute,Canada,2021-03-07
+R00352,Patient,Central Regional Hospital,France,2024-09-26
+R00353,Other Health Professional,National Care Hospital,Brazil,2024-10-10
+R00354,Other Health Professional,Sunrise Medical Institute,Australia,2019-11-16
+R00355,Nurse,Central Regional Hospital,Canada,2023-12-30
+R00356,Physician,National Care Hospital,Canada,2021-03-06
+R00357,Nurse,Metro Health Clinic,Canada,2024-09-15
+R00358,Lawyer,National Care Hospital,United States,2022-03-14
+R00359,Lawyer,Metro Health Clinic,Brazil,2023-06-14
+R00360,Nurse,Sunrise Medical Institute,Brazil,2024-09-09
+R00361,Lawyer,St. Mary's Medical Center,Germany,2023-08-24
+R00362,Nurse,City General Hospital,India,2024-03-25
+R00363,Pharmacist,National Care Hospital,Canada,2022-08-10
+R00364,Lawyer,Metro Health Clinic,France,2019-07-29
+R00365,Other Health Professional,Sunrise Medical Institute,Australia,2020-10-24
+R00366,Nurse,St. Mary's Medical Center,Canada,2019-11-29
+R00367,Other Health Professional,Metro Health Clinic,Japan,2020-09-04
+R00368,Physician,National Care Hospital,Japan,2023-06-19
+R00369,Lawyer,National Care Hospital,Japan,2023-08-03
+R00370,Pharmacist,National Care Hospital,Brazil,2021-04-03
+R00371,Other Health Professional,St. Mary's Medical Center,Australia,2022-09-09
+R00372,Pharmacist,St. Mary's Medical Center,India,2024-11-02
+R00373,Lawyer,St. Mary's Medical Center,Brazil,2021-12-14
+R00374,Other Health Professional,Central Regional Hospital,Germany,2022-03-15
+R00375,Lawyer,St. Mary's Medical Center,United States,2024-08-16
+R00376,Nurse,St. Mary's Medical Center,Japan,2023-06-02
+R00377,Lawyer,City General Hospital,United States,2024-08-09
+R00378,Other Health Professional,City General Hospital,United States,2019-03-29
+R00379,Pharmacist,Central Regional Hospital,France,2019-06-10
+R00380,Physician,National Care Hospital,Australia,2023-06-24
+R00381,Other Health Professional,National Care Hospital,Japan,2019-02-23
+R00382,Lawyer,Sunrise Medical Institute,India,2022-06-17
+R00383,Pharmacist,National Care Hospital,Canada,2023-05-23
+R00384,Pharmacist,Central Regional Hospital,South Africa,2023-08-23
+R00385,Pharmacist,Metro Health Clinic,United States,2022-04-23
+R00386,Other Health Professional,City General Hospital,Brazil,2019-12-15
+R00387,Patient,Metro Health Clinic,South Africa,2021-04-04
+R00388,Physician,Sunrise Medical Institute,Canada,2020-10-02
+R00389,Physician,National Care Hospital,Germany,2023-06-07
+R00390,Pharmacist,St. Mary's Medical Center,Australia,2022-03-28
+R00391,Lawyer,City General Hospital,Canada,2019-04-12
+R00392,Patient,Metro Health Clinic,Japan,2019-07-02
+R00393,Pharmacist,Metro Health Clinic,Australia,2023-06-12
+R00394,Physician,National Care Hospital,Brazil,2023-03-18
+R00395,Pharmacist,City General Hospital,Germany,2019-02-09
+R00396,Nurse,Central Regional Hospital,United Kingdom,2021-04-19
+R00397,Patient,St. Mary's Medical Center,India,2022-01-22
+R00398,Lawyer,City General Hospital,United Kingdom,2024-06-30
+R00399,Nurse,City General Hospital,France,2024-01-28
+R00400,Lawyer,National Care Hospital,France,2022-02-21
+R00401,Other Health Professional,St. Mary's Medical Center,United Kingdom,2024-12-03
+R00402,Pharmacist,Central Regional Hospital,Germany,2024-02-03
+R00403,Physician,St. Mary's Medical Center,Australia,2023-12-29
+R00404,Patient,St. Mary's Medical Center,Brazil,2022-04-02
+R00405,Lawyer,Central Regional Hospital,United States,2023-02-09
+R00406,Lawyer,Sunrise Medical Institute,South Africa,2019-10-06
+R00407,Lawyer,Sunrise Medical Institute,South Africa,2019-11-28
+R00408,Pharmacist,Metro Health Clinic,South Africa,2022-11-26
+R00409,Physician,City General Hospital,South Africa,2023-02-05
+R00410,Other Health Professional,Central Regional Hospital,Canada,2023-05-07
+R00411,Other Health Professional,Metro Health Clinic,Japan,2019-08-26
+R00412,Other Health Professional,Sunrise Medical Institute,India,2023-01-17
+R00413,Physician,City General Hospital,Germany,2021-11-30
+R00414,Pharmacist,Sunrise Medical Institute,Australia,2019-06-03
+R00415,Patient,City General Hospital,United Kingdom,2024-05-05
+R00416,Nurse,St. Mary's Medical Center,India,2023-10-26
+R00417,Physician,City General Hospital,United States,2020-08-01
+R00418,Patient,Sunrise Medical Institute,Canada,2022-03-18
+R00419,Physician,City General Hospital,Australia,2022-12-19
+R00420,Nurse,Metro Health Clinic,Germany,2022-03-10
+R00421,Nurse,Central Regional Hospital,France,2022-11-22
+R00422,Pharmacist,St. Mary's Medical Center,Germany,2024-10-19
+R00423,Lawyer,Metro Health Clinic,Japan,2019-08-14
+R00424,Patient,City General Hospital,United States,2022-03-06
+R00425,Patient,National Care Hospital,United Kingdom,2022-11-23
+R00426,Lawyer,Central Regional Hospital,France,2020-08-11
+R00427,Physician,National Care Hospital,Japan,2019-05-15
+R00428,Pharmacist,Central Regional Hospital,United Kingdom,2024-10-15
+R00429,Lawyer,St. Mary's Medical Center,Australia,2022-10-01
+R00430,Nurse,Central Regional Hospital,Germany,2022-09-29
+R00431,Patient,City General Hospital,United States,2019-08-11
+R00432,Lawyer,City General Hospital,Canada,2022-06-08
+R00433,Pharmacist,St. Mary's Medical Center,Brazil,2023-05-20
+R00434,Pharmacist,National Care Hospital,Japan,2022-11-05
+R00435,Pharmacist,Central Regional Hospital,France,2021-06-03
+R00436,Nurse,City General Hospital,France,2020-10-22
+R00437,Pharmacist,National Care Hospital,United Kingdom,2021-05-02
+R00438,Pharmacist,City General Hospital,India,2020-07-14
+R00439,Patient,Metro Health Clinic,France,2021-12-01
+R00440,Physician,St. Mary's Medical Center,Australia,2024-05-31
+R00441,Nurse,Central Regional Hospital,Japan,2019-08-19
+R00442,Lawyer,St. Mary's Medical Center,United States,2019-12-15
+R00443,Physician,City General Hospital,India,2021-05-18
+R00444,Nurse,St. Mary's Medical Center,United Kingdom,2019-03-22
+R00445,Physician,Sunrise Medical Institute,Australia,2019-05-27
+R00446,Other Health Professional,St. Mary's Medical Center,Japan,2019-08-07
+R00447,Patient,Central Regional Hospital,United States,2019-06-18
+R00448,Patient,National Care Hospital,Australia,2019-08-13
+R00449,Patient,Metro Health Clinic,Brazil,2022-04-09
+R00450,Pharmacist,St. Mary's Medical Center,Brazil,2024-11-05
+R00451,Patient,National Care Hospital,Australia,2021-01-28
+R00452,Nurse,Central Regional Hospital,France,2022-12-11
+R00453,Pharmacist,Sunrise Medical Institute,Germany,2022-04-16
+R00454,Physician,City General Hospital,South Africa,2024-07-17
+R00455,Nurse,St. Mary's Medical Center,France,2021-05-10
+R00456,Nurse,St. Mary's Medical Center,Germany,2023-12-13
+R00457,Patient,City General Hospital,South Africa,2020-12-09
+R00458,Other Health Professional,City General Hospital,Japan,2022-12-26
+R00459,Nurse,St. Mary's Medical Center,United States,2024-01-18
+R00460,Patient,National Care Hospital,Canada,2021-06-29
+R00461,Nurse,City General Hospital,Japan,2021-06-21
+R00462,Lawyer,St. Mary's Medical Center,France,2021-10-02
+R00463,Physician,National Care Hospital,Brazil,2020-08-23
+R00464,Lawyer,National Care Hospital,United Kingdom,2022-12-09
+R00465,Patient,Central Regional Hospital,France,2022-05-03
+R00466,Lawyer,National Care Hospital,Brazil,2021-06-10
+R00467,Patient,National Care Hospital,Brazil,2022-12-29
+R00468,Lawyer,National Care Hospital,South Africa,2022-05-13
+R00469,Lawyer,Sunrise Medical Institute,South Africa,2019-10-05
+R00470,Physician,Central Regional Hospital,United Kingdom,2024-06-27
+R00471,Nurse,Sunrise Medical Institute,India,2024-07-06
+R00472,Lawyer,Central Regional Hospital,Japan,2022-01-04
+R00473,Other Health Professional,Central Regional Hospital,United Kingdom,2020-06-03
+R00474,Patient,City General Hospital,South Africa,2023-07-31
+R00475,Physician,Metro Health Clinic,France,2019-03-28
+R00476,Lawyer,Metro Health Clinic,Brazil,2019-11-18
+R00477,Physician,National Care Hospital,Japan,2023-01-30
+R00478,Patient,Sunrise Medical Institute,France,2020-05-17
+R00479,Other Health Professional,Sunrise Medical Institute,South Africa,2020-03-03
+R00480,Physician,Central Regional Hospital,Australia,2019-04-23
+R00481,Other Health Professional,National Care Hospital,United States,2023-12-01
+R00482,Patient,Sunrise Medical Institute,United Kingdom,2019-11-21
+R00483,Patient,St. Mary's Medical Center,Japan,2020-04-23
+R00484,Physician,Metro Health Clinic,India,2021-02-01
+R00485,Patient,National Care Hospital,South Africa,2020-01-31
+R00486,Pharmacist,Metro Health Clinic,Germany,2019-02-13
+R00487,Pharmacist,Central Regional Hospital,India,2023-07-19
+R00488,Physician,Sunrise Medical Institute,United States,2022-05-03
+R00489,Pharmacist,National Care Hospital,India,2020-06-20
+R00490,Lawyer,National Care Hospital,United Kingdom,2019-05-12
+R00491,Patient,Metro Health Clinic,South Africa,2020-05-31
+R00492,Pharmacist,St. Mary's Medical Center,United States,2020-07-27
+R00493,Other Health Professional,Sunrise Medical Institute,South Africa,2021-04-10
+R00494,Lawyer,Metro Health Clinic,United Kingdom,2019-09-09
+R00495,Physician,Central Regional Hospital,United States,2019-12-01
+R00496,Patient,St. Mary's Medical Center,India,2022-02-20
+R00497,Patient,Central Regional Hospital,Canada,2019-10-19
+R00498,Other Health Professional,Sunrise Medical Institute,Canada,2019-03-08
+R00499,Pharmacist,Metro Health Clinic,United States,2024-12-29
+R00500,Nurse,Metro Health Clinic,South Africa,2022-08-01
+R00501,Physician,St. Mary's Medical Center,India,2021-02-15
+R00502,Patient,City General Hospital,South Africa,2020-08-31
+R00503,Physician,St. Mary's Medical Center,Brazil,2024-08-08
+R00504,Nurse,Central Regional Hospital,United States,2019-03-29
+R00505,Patient,Metro Health Clinic,Canada,2024-01-16
+R00506,Lawyer,National Care Hospital,Germany,2020-03-24
+R00507,Other Health Professional,Central Regional Hospital,India,2022-01-10
+R00508,Nurse,St. Mary's Medical Center,South Africa,2021-02-15
+R00509,Physician,National Care Hospital,Germany,2022-02-26
+R00510,Patient,Sunrise Medical Institute,Japan,2019-04-03
+R00511,Other Health Professional,Metro Health Clinic,Brazil,2022-11-21
+R00512,Pharmacist,St. Mary's Medical Center,Canada,2022-05-19
+R00513,Lawyer,City General Hospital,Germany,2024-06-03
+R00514,Physician,National Care Hospital,France,2020-01-28
+R00515,Pharmacist,National Care Hospital,South Africa,2024-06-09
+R00516,Lawyer,Metro Health Clinic,Japan,2021-02-25
+R00517,Physician,Central Regional Hospital,South Africa,2022-01-15
+R00518,Patient,Metro Health Clinic,Germany,2019-06-06
+R00519,Physician,Sunrise Medical Institute,United Kingdom,2019-09-25
+R00520,Lawyer,Metro Health Clinic,Japan,2019-03-02
+R00521,Patient,City General Hospital,United States,2021-03-29
+R00522,Nurse,National Care Hospital,Brazil,2024-10-26
+R00523,Pharmacist,National Care Hospital,United Kingdom,2022-01-09
+R00524,Nurse,Sunrise Medical Institute,Canada,2022-10-14
+R00525,Other Health Professional,National Care Hospital,Australia,2020-05-29
+R00526,Lawyer,Central Regional Hospital,United Kingdom,2024-09-18
+R00527,Nurse,St. Mary's Medical Center,Brazil,2020-11-10
+R00528,Pharmacist,National Care Hospital,Canada,2019-04-18
+R00529,Lawyer,Sunrise Medical Institute,United States,2021-12-07
+R00530,Nurse,National Care Hospital,India,2021-02-27
+R00531,Physician,Metro Health Clinic,Australia,2021-06-18
+R00532,Lawyer,National Care Hospital,Brazil,2024-07-16
+R00533,Physician,Central Regional Hospital,Germany,2020-07-29
+R00534,Nurse,City General Hospital,Germany,2019-07-04
+R00535,Nurse,St. Mary's Medical Center,United States,2021-05-29
+R00536,Other Health Professional,National Care Hospital,United Kingdom,2021-02-07
+R00537,Pharmacist,Metro Health Clinic,United States,2022-05-20
+R00538,Nurse,Central Regional Hospital,France,2019-08-11
+R00539,Patient,National Care Hospital,France,2021-09-09
+R00540,Pharmacist,National Care Hospital,Brazil,2022-02-20
+R00541,Other Health Professional,Metro Health Clinic,South Africa,2024-09-10
+R00542,Patient,Sunrise Medical Institute,Brazil,2019-10-18
+R00543,Lawyer,Central Regional Hospital,Japan,2020-04-12
+R00544,Lawyer,Metro Health Clinic,United Kingdom,2022-04-18
+R00545,Patient,National Care Hospital,United Kingdom,2020-10-23
+R00546,Other Health Professional,Metro Health Clinic,Germany,2024-07-06
+R00547,Lawyer,Sunrise Medical Institute,Australia,2021-05-06
+R00548,Patient,National Care Hospital,United Kingdom,2023-06-02
+R00549,Pharmacist,Sunrise Medical Institute,United States,2021-09-25
+R00550,Nurse,Central Regional Hospital,India,2019-12-01
+R00551,Nurse,Sunrise Medical Institute,Canada,2023-04-02
+R00552,Nurse,Central Regional Hospital,Japan,2024-02-13
+R00553,Lawyer,Central Regional Hospital,Japan,2020-04-11
+R00554,Patient,Metro Health Clinic,Japan,2019-05-10
+R00555,Physician,St. Mary's Medical Center,France,2024-07-16
+R00556,Lawyer,Central Regional Hospital,Japan,2024-05-30
+R00557,Pharmacist,Metro Health Clinic,India,2019-03-13
+R00558,Nurse,Metro Health Clinic,France,2021-03-31
+R00559,Pharmacist,St. Mary's Medical Center,Japan,2020-11-03
+R00560,Nurse,City General Hospital,Brazil,2022-08-25
+R00561,Lawyer,St. Mary's Medical Center,United States,2024-12-18
+R00562,Physician,Metro Health Clinic,South Africa,2022-05-11
+R00563,Lawyer,Metro Health Clinic,France,2023-10-15
+R00564,Other Health Professional,Sunrise Medical Institute,United Kingdom,2019-12-10
+R00565,Nurse,Metro Health Clinic,India,2021-07-31
+R00566,Other Health Professional,National Care Hospital,South Africa,2022-07-03
+R00567,Pharmacist,Metro Health Clinic,Germany,2021-04-18
+R00568,Lawyer,Sunrise Medical Institute,United Kingdom,2020-02-18
+R00569,Nurse,Central Regional Hospital,Germany,2024-04-23
+R00570,Pharmacist,City General Hospital,India,2019-07-15
+R00571,Other Health Professional,National Care Hospital,Canada,2023-05-20
+R00572,Nurse,National Care Hospital,Australia,2021-12-17
+R00573,Patient,St. Mary's Medical Center,Germany,2023-11-25
+R00574,Other Health Professional,City General Hospital,India,2019-01-14
+R00575,Nurse,City General Hospital,Australia,2023-07-13
+R00576,Other Health Professional,National Care Hospital,India,2020-08-09
+R00577,Patient,Central Regional Hospital,United States,2024-08-27
+R00578,Lawyer,Sunrise Medical Institute,Australia,2020-04-11
+R00579,Physician,Metro Health Clinic,Japan,2024-03-08
+R00580,Other Health Professional,Sunrise Medical Institute,South Africa,2019-11-13
+R00581,Lawyer,Sunrise Medical Institute,Australia,2022-05-10
+R00582,Physician,City General Hospital,Canada,2022-07-28
+R00583,Physician,Metro Health Clinic,Germany,2022-03-28
+R00584,Nurse,City General Hospital,Japan,2020-08-04
+R00585,Pharmacist,St. Mary's Medical Center,Australia,2023-01-05
+R00586,Other Health Professional,Sunrise Medical Institute,United Kingdom,2022-09-09
+R00587,Physician,City General Hospital,United Kingdom,2024-02-28
+R00588,Nurse,St. Mary's Medical Center,India,2022-11-16
+R00589,Nurse,Central Regional Hospital,South Africa,2020-04-22
+R00590,Physician,City General Hospital,Germany,2021-01-04
+R00591,Lawyer,Sunrise Medical Institute,South Africa,2023-01-09
+R00592,Patient,St. Mary's Medical Center,India,2024-02-18
+R00593,Physician,City General Hospital,Australia,2022-10-03
+R00594,Physician,Metro Health Clinic,Germany,2023-11-17
+R00595,Patient,Sunrise Medical Institute,United States,2023-01-10
+R00596,Lawyer,City General Hospital,France,2021-05-22
+R00597,Lawyer,Sunrise Medical Institute,Germany,2022-01-14
+R00598,Other Health Professional,Sunrise Medical Institute,Japan,2021-06-29
+R00599,Patient,National Care Hospital,South Africa,2024-12-22
+R00600,Patient,Metro Health Clinic,Australia,2019-11-19
+R00601,Pharmacist,City General Hospital,Germany,2022-03-02
+R00602,Patient,City General Hospital,Brazil,2021-09-01
+R00603,Physician,Central Regional Hospital,France,2021-04-16
+R00604,Pharmacist,Metro Health Clinic,Germany,2020-08-21
+R00605,Pharmacist,National Care Hospital,India,2023-05-22
+R00606,Other Health Professional,Sunrise Medical Institute,Canada,2020-03-30
+R00607,Patient,City General Hospital,France,2019-08-25
+R00608,Other Health Professional,Metro Health Clinic,Canada,2020-10-24
+R00609,Other Health Professional,National Care Hospital,United States,2023-03-11
+R00610,Nurse,National Care Hospital,India,2019-08-04
+R00611,Other Health Professional,Metro Health Clinic,Australia,2021-12-29
+R00612,Other Health Professional,Central Regional Hospital,Brazil,2021-09-29
+R00613,Physician,National Care Hospital,France,2023-07-17
+R00614,Patient,National Care Hospital,Canada,2024-08-22
+R00615,Pharmacist,Central Regional Hospital,Germany,2024-11-27
+R00616,Nurse,St. Mary's Medical Center,South Africa,2022-06-11
+R00617,Lawyer,National Care Hospital,India,2021-05-06
+R00618,Lawyer,City General Hospital,United Kingdom,2021-05-04
+R00619,Lawyer,Metro Health Clinic,Canada,2023-06-15
+R00620,Lawyer,St. Mary's Medical Center,France,2022-03-14
+R00621,Other Health Professional,City General Hospital,United Kingdom,2021-03-28
+R00622,Physician,Sunrise Medical Institute,France,2024-01-26
+R00623,Other Health Professional,City General Hospital,Canada,2022-08-11
+R00624,Physician,Central Regional Hospital,Germany,2022-03-12
+R00625,Patient,Metro Health Clinic,Japan,2019-06-11
+R00626,Patient,National Care Hospital,United Kingdom,2022-08-30
+R00627,Pharmacist,National Care Hospital,United Kingdom,2023-04-28
+R00628,Other Health Professional,St. Mary's Medical Center,Germany,2020-04-09
+R00629,Physician,Metro Health Clinic,Germany,2020-12-21
+R00630,Patient,Sunrise Medical Institute,South Africa,2020-02-01
+R00631,Nurse,Central Regional Hospital,Australia,2021-01-31
+R00632,Lawyer,Central Regional Hospital,United Kingdom,2024-01-01
+R00633,Physician,St. Mary's Medical Center,United Kingdom,2024-08-03
+R00634,Patient,Central Regional Hospital,South Africa,2021-04-02
+R00635,Lawyer,National Care Hospital,Brazil,2021-06-10
+R00636,Other Health Professional,St. Mary's Medical Center,South Africa,2019-01-29
+R00637,Physician,City General Hospital,United Kingdom,2020-06-15
+R00638,Lawyer,Metro Health Clinic,Brazil,2021-05-06
+R00639,Lawyer,City General Hospital,Australia,2024-04-26
+R00640,Lawyer,National Care Hospital,Japan,2022-08-11
+R00641,Physician,St. Mary's Medical Center,South Africa,2019-11-17
+R00642,Pharmacist,National Care Hospital,South Africa,2020-09-28
+R00643,Other Health Professional,St. Mary's Medical Center,Australia,2023-09-27
+R00644,Other Health Professional,St. Mary's Medical Center,India,2020-08-28
+R00645,Lawyer,City General Hospital,United Kingdom,2021-09-04
+R00646,Pharmacist,National Care Hospital,Canada,2021-10-19
+R00647,Patient,City General Hospital,Japan,2021-03-24
+R00648,Lawyer,National Care Hospital,India,2019-09-13
+R00649,Patient,City General Hospital,Brazil,2022-03-27
+R00650,Lawyer,City General Hospital,United States,2020-03-17
+R00651,Other Health Professional,Sunrise Medical Institute,Japan,2023-06-19
+R00652,Other Health Professional,St. Mary's Medical Center,Germany,2020-09-11
+R00653,Other Health Professional,National Care Hospital,Australia,2021-08-24
+R00654,Other Health Professional,Sunrise Medical Institute,United Kingdom,2022-11-05
+R00655,Physician,Central Regional Hospital,Australia,2020-08-25
+R00656,Physician,National Care Hospital,Germany,2024-10-22
+R00657,Pharmacist,Central Regional Hospital,Canada,2021-07-29
+R00658,Patient,Sunrise Medical Institute,United Kingdom,2022-05-13
+R00659,Nurse,Metro Health Clinic,India,2019-05-22
+R00660,Other Health Professional,St. Mary's Medical Center,Japan,2019-01-25
+R00661,Nurse,St. Mary's Medical Center,Canada,2022-01-08
+R00662,Other Health Professional,Metro Health Clinic,India,2022-04-09
+R00663,Other Health Professional,Metro Health Clinic,Canada,2024-07-24
+R00664,Pharmacist,Sunrise Medical Institute,Germany,2024-08-07
+R00665,Pharmacist,City General Hospital,United States,2024-09-07
+R00666,Physician,Sunrise Medical Institute,India,2019-09-27
+R00667,Pharmacist,Central Regional Hospital,South Africa,2019-02-13
+R00668,Lawyer,St. Mary's Medical Center,United Kingdom,2023-12-27
+R00669,Physician,Central Regional Hospital,Germany,2022-06-24
+R00670,Physician,Metro Health Clinic,South Africa,2022-05-17
+R00671,Physician,National Care Hospital,Germany,2023-05-17
+R00672,Nurse,Metro Health Clinic,India,2023-10-02
+R00673,Patient,National Care Hospital,Australia,2024-04-03
+R00674,Patient,National Care Hospital,Australia,2023-08-27
+R00675,Other Health Professional,National Care Hospital,Germany,2023-11-29
+R00676,Other Health Professional,National Care Hospital,Brazil,2019-03-23
+R00677,Physician,Central Regional Hospital,Japan,2019-12-27
+R00678,Physician,Sunrise Medical Institute,Germany,2019-09-17
+R00679,Lawyer,St. Mary's Medical Center,United Kingdom,2022-11-10
+R00680,Physician,City General Hospital,Canada,2019-07-13
+R00681,Nurse,City General Hospital,Brazil,2023-08-21
+R00682,Other Health Professional,Sunrise Medical Institute,United States,2020-09-14
+R00683,Patient,City General Hospital,Brazil,2019-06-22
+R00684,Physician,Metro Health Clinic,United States,2022-01-28
+R00685,Lawyer,Sunrise Medical Institute,Brazil,2024-09-03
+R00686,Physician,Metro Health Clinic,Germany,2019-12-23
+R00687,Patient,St. Mary's Medical Center,United States,2019-07-23
+R00688,Other Health Professional,Sunrise Medical Institute,Canada,2024-11-15
+R00689,Patient,St. Mary's Medical Center,Germany,2022-09-19
+R00690,Other Health Professional,Metro Health Clinic,Japan,2020-11-08
+R00691,Lawyer,St. Mary's Medical Center,Brazil,2020-04-18
+R00692,Lawyer,City General Hospital,United States,2019-08-12
+R00693,Patient,City General Hospital,United States,2021-06-02
+R00694,Pharmacist,Metro Health Clinic,Australia,2020-08-04
+R00695,Physician,National Care Hospital,Germany,2020-07-24
+R00696,Physician,Central Regional Hospital,Brazil,2024-04-02
+R00697,Other Health Professional,Sunrise Medical Institute,United Kingdom,2024-04-22
+R00698,Patient,City General Hospital,Japan,2020-11-16
+R00699,Nurse,St. Mary's Medical Center,Brazil,2020-01-28
+R00700,Lawyer,Metro Health Clinic,South Africa,2022-02-19
+R00701,Lawyer,Central Regional Hospital,Australia,2020-04-04
+R00702,Nurse,Central Regional Hospital,Brazil,2020-09-11
+R00703,Lawyer,National Care Hospital,Japan,2024-01-28
+R00704,Pharmacist,City General Hospital,Japan,2021-08-10
+R00705,Physician,Central Regional Hospital,Brazil,2019-03-07
+R00706,Nurse,Central Regional Hospital,Australia,2019-11-30
+R00707,Physician,National Care Hospital,Germany,2022-12-03
+R00708,Other Health Professional,Central Regional Hospital,United States,2020-09-14
+R00709,Other Health Professional,Central Regional Hospital,Japan,2022-02-04
+R00710,Pharmacist,St. Mary's Medical Center,United Kingdom,2021-09-10
+R00711,Other Health Professional,St. Mary's Medical Center,Australia,2019-10-03
+R00712,Nurse,Metro Health Clinic,France,2023-04-10
+R00713,Physician,St. Mary's Medical Center,Germany,2022-10-28
+R00714,Physician,Metro Health Clinic,United Kingdom,2019-02-09
+R00715,Lawyer,Central Regional Hospital,South Africa,2022-05-01
+R00716,Nurse,City General Hospital,United Kingdom,2020-09-18
+R00717,Lawyer,Metro Health Clinic,France,2021-01-24
+R00718,Pharmacist,Central Regional Hospital,Brazil,2022-08-25
+R00719,Physician,Central Regional Hospital,Germany,2020-02-12
+R00720,Nurse,City General Hospital,Canada,2019-07-02
+R00721,Nurse,City General Hospital,United States,2024-09-05
+R00722,Physician,Central Regional Hospital,France,2024-01-17
+R00723,Physician,Sunrise Medical Institute,United Kingdom,2019-09-03
+R00724,Patient,St. Mary's Medical Center,Japan,2020-03-25
+R00725,Physician,Metro Health Clinic,Brazil,2023-10-29
+R00726,Pharmacist,Sunrise Medical Institute,Canada,2021-06-26
+R00727,Patient,Metro Health Clinic,Germany,2022-08-05
+R00728,Pharmacist,Central Regional Hospital,Germany,2023-03-19
+R00729,Lawyer,Central Regional Hospital,United States,2021-11-12
+R00730,Other Health Professional,St. Mary's Medical Center,Canada,2019-05-15
+R00731,Physician,Sunrise Medical Institute,United Kingdom,2022-09-30
+R00732,Physician,St. Mary's Medical Center,Germany,2022-11-08
+R00733,Nurse,City General Hospital,Australia,2024-04-21
+R00734,Lawyer,National Care Hospital,Australia,2024-07-04
+R00735,Pharmacist,Metro Health Clinic,India,2021-12-05
+R00736,Pharmacist,National Care Hospital,Japan,2019-06-05
+R00737,Nurse,Sunrise Medical Institute,Germany,2021-01-12
+R00738,Nurse,City General Hospital,France,2024-12-21
+R00739,Lawyer,Metro Health Clinic,Japan,2021-08-10
+R00740,Other Health Professional,St. Mary's Medical Center,Canada,2024-07-04
+R00741,Lawyer,St. Mary's Medical Center,South Africa,2023-09-01
+R00742,Nurse,City General Hospital,Brazil,2020-09-09
+R00743,Nurse,Metro Health Clinic,United Kingdom,2024-03-20
+R00744,Pharmacist,Metro Health Clinic,South Africa,2021-08-04
+R00745,Nurse,Sunrise Medical Institute,Australia,2022-01-20
+R00746,Lawyer,National Care Hospital,Australia,2024-09-26
+R00747,Pharmacist,St. Mary's Medical Center,Canada,2024-04-10
+R00748,Nurse,Central Regional Hospital,United States,2021-04-24
+R00749,Pharmacist,City General Hospital,United States,2020-08-07
+R00750,Physician,St. Mary's Medical Center,South Africa,2020-03-11
+R00751,Lawyer,Metro Health Clinic,United States,2020-01-07
+R00752,Other Health Professional,National Care Hospital,Australia,2024-07-06
+R00753,Patient,St. Mary's Medical Center,Japan,2023-11-25
+R00754,Lawyer,Metro Health Clinic,United Kingdom,2024-09-03
+R00755,Nurse,Metro Health Clinic,Canada,2019-09-01
+R00756,Physician,Sunrise Medical Institute,Germany,2022-10-10
+R00757,Other Health Professional,Central Regional Hospital,Australia,2021-07-27
+R00758,Physician,St. Mary's Medical Center,Canada,2020-02-04
+R00759,Nurse,Central Regional Hospital,Australia,2019-12-16
+R00760,Pharmacist,National Care Hospital,India,2019-04-29
+R00761,Nurse,Metro Health Clinic,Japan,2022-06-13
+R00762,Patient,Sunrise Medical Institute,France,2020-08-06
+R00763,Lawyer,Central Regional Hospital,Australia,2021-05-29
+R00764,Pharmacist,St. Mary's Medical Center,United Kingdom,2023-12-24
+R00765,Pharmacist,St. Mary's Medical Center,Canada,2024-11-21
+R00766,Nurse,St. Mary's Medical Center,Germany,2019-09-06
+R00767,Nurse,City General Hospital,Germany,2024-05-07
+R00768,Other Health Professional,Metro Health Clinic,South Africa,2023-04-05
+R00769,Other Health Professional,City General Hospital,Germany,2021-01-09
+R00770,Pharmacist,City General Hospital,United States,2021-08-23
+R00771,Nurse,Central Regional Hospital,Japan,2024-09-10
+R00772,Lawyer,Central Regional Hospital,India,2019-04-08
+R00773,Other Health Professional,Sunrise Medical Institute,Germany,2021-11-02
+R00774,Lawyer,Metro Health Clinic,South Africa,2024-04-24
+R00775,Nurse,Central Regional Hospital,Japan,2019-07-08
+R00776,Other Health Professional,Central Regional Hospital,India,2024-07-30
+R00777,Pharmacist,Metro Health Clinic,United States,2021-04-06
+R00778,Physician,Central Regional Hospital,Japan,2023-07-23
+R00779,Pharmacist,Metro Health Clinic,Japan,2023-08-03
+R00780,Lawyer,St. Mary's Medical Center,Canada,2023-11-29
+R00781,Nurse,Metro Health Clinic,Brazil,2019-08-29
+R00782,Lawyer,Sunrise Medical Institute,India,2023-05-20
+R00783,Lawyer,Metro Health Clinic,Canada,2021-12-22
+R00784,Other Health Professional,City General Hospital,Canada,2024-02-05
+R00785,Pharmacist,Central Regional Hospital,United Kingdom,2021-10-28
+R00786,Pharmacist,Sunrise Medical Institute,Brazil,2023-10-23
+R00787,Physician,Sunrise Medical Institute,United States,2020-03-06
+R00788,Pharmacist,National Care Hospital,Japan,2024-09-30
+R00789,Nurse,Metro Health Clinic,France,2022-07-22
+R00790,Other Health Professional,Central Regional Hospital,South Africa,2022-11-30
+R00791,Physician,National Care Hospital,France,2020-09-07
+R00792,Patient,Central Regional Hospital,United Kingdom,2021-02-18
+R00793,Pharmacist,Metro Health Clinic,United Kingdom,2023-08-29
+R00794,Physician,Metro Health Clinic,France,2024-07-22
+R00795,Physician,Central Regional Hospital,United States,2021-09-26
+R00796,Physician,Metro Health Clinic,Germany,2022-09-08
+R00797,Pharmacist,City General Hospital,United States,2023-05-27
+R00798,Lawyer,Metro Health Clinic,Canada,2020-12-26
+R00799,Lawyer,Metro Health Clinic,South Africa,2022-02-26
+R00800,Patient,St. Mary's Medical Center,Brazil,2021-03-30

@@ -1,0 +1,19 @@
+PHARMACOVIGILANCE DATA CLEANING REPORT
+=======================================================
+Patient table: 5075 raw rows -> 5000 clean rows
+  - Duplicate Patient_IDs removed : 75
+  - Impossible ages corrected     : 41
+  - Missing ages imputed (median) : 249
+  - Missing gender values         : 155
+
+Adverse Event table: 9270 raw rows -> 9000 clean rows
+  - Duplicate ADR reports removed : 270
+  - Missing outcomes set to 'Unknown' : 444
+
+Drug Exposure table: invalid dosage values corrected: 193
+
+Standardization applied:
+  - Country names mapped to canonical values
+  - Drug name spelling variants mapped to canonical generic names
+  - Gender values normalized (M/F/male/female -> Male/Female)
+  - Event/Reporting/Therapy dates parsed from mixed formats (YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY)

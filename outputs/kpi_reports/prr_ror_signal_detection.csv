@@ -1,0 +1,263 @@
+Drug_Name,Side_Effect,Reports_a_DrugAndEvent,Reports_b_DrugOnly,Reports_c_EventOnly,Reports_d_Neither,PRR,ROR,Information_Component,Chi_Square,P_Value,Signal_Detected
+Prednisone,Immunosuppression,66,257,0,8677,3562.265,4481.971,4.535,1758.148,0.0,True
+Gabapentin,Somnolence,69,290,0,8641,3336.772,4134.831,4.417,1648.468,0.0,True
+Prednisone,Osteoporosis,61,262,0,8677,3294.426,4066.029,4.515,1621.938,0.0,True
+Gabapentin,Peripheral Edema,63,296,0,8641,3048.706,3701.418,4.397,1501.935,0.0,True
+Levothyroxine,Palpitations,62,302,0,8636,2957.877,3568.802,4.377,1456.378,0.0,True
+Levothyroxine,Tremor,62,302,0,8636,2957.877,3568.802,4.377,1456.378,0.0,True
+Sertraline,Sexual Dysfunction,64,313,0,8623,2943.111,3548.426,4.342,1450.39,0.0,True
+Omeprazole,Fracture Risk,64,317,0,8619,2910.942,3502.096,4.329,1434.486,0.0,True
+Prednisone,Hyperglycemia,52,271,0,8677,2812.315,3355.939,4.472,1377.148,0.0,True
+Omeprazole,B12 Deficiency,61,320,0,8619,2775.55,3307.952,4.318,1365.68,0.0,True
+Gabapentin,Ataxia,52,307,0,8641,2520.583,2950.756,4.35,1233.806,0.0,True
+Sertraline,Suicidal Ideation,49,328,0,8623,2258.667,2598.863,4.277,1103.021,0.0,True
+Sertraline,Weight Gain,63,314,41,8582,35.146,41.997,3.709,819.413,0.0,True
+Insulin Glargine,Lactic Acidosis,50,292,37,8621,34.211,39.897,3.73,677.504,0.0,True
+Ibuprofen,Kidney Injury,52,304,43,8601,29.363,34.215,3.624,638.279,0.0,True
+Insulin Glargine,GI Upset,52,290,47,8611,28.009,32.852,3.623,636.705,0.0,True
+Ibuprofen,Ulcer,47,309,42,8602,27.171,31.152,3.563,551.785,0.0,True
+Ibuprofen,GI Bleeding,49,307,45,8599,26.439,30.5,3.553,567.486,0.0,True
+Metformin,Hypoglycemia,45,293,44,8618,26.21,30.081,3.566,531.833,0.0,True
+Insulin Glargine,Hypoglycemia,44,298,45,8613,24.753,28.26,3.519,499.627,0.0,True
+Sertraline,Insomnia,71,306,67,8556,24.238,29.63,3.509,768.042,0.0,True
+Metformin,GI Upset,47,291,52,8610,23.163,26.743,3.493,517.179,0.0,True
+Diclofenac,GI Bleeding,45,301,49,8605,22.97,26.254,3.467,486.159,0.0,True
+Levothyroxine,Insomnia,67,297,71,8565,22.389,27.214,3.472,703.726,0.0,True
+Diclofenac,Ulcer,42,304,47,8607,22.351,25.301,3.438,445.119,0.0,True
+Diclofenac,Kidney Injury,43,303,52,8602,20.683,23.476,3.389,434.32,0.0,True
+Metformin,Lactic Acidosis,37,301,50,8612,18.964,21.172,3.315,354.634,0.0,True
+Prednisone,Weight Gain,41,282,63,8614,17.483,19.879,3.294,380.064,0.0,True
+Ciprofloxacin,Anaphylaxis,50,336,64,8550,17.434,19.88,3.228,430.727,0.0,True
+Ciprofloxacin,C. diff Colitis,44,342,59,8555,16.642,18.655,3.178,365.442,0.0,True
+Levothyroxine,Weight Loss,58,306,88,8548,15.637,18.411,3.191,477.571,0.0,True
+Azithromycin,Liver Injury,44,313,78,8565,13.657,15.436,3.059,326.031,0.0,True
+Ciprofloxacin,Liver Injury,44,342,78,8536,12.589,14.079,2.957,296.43,0.0,True
+Azithromycin,C. diff Colitis,34,323,69,8574,11.93,13.08,2.911,223.065,0.0,True
+Insulin Glargine,Weight Loss,45,297,101,8557,11.279,12.837,2.911,288.969,0.0,True
+Metformin,Weight Loss,43,295,103,8559,10.699,12.112,2.862,263.937,0.0,True
+Amoxicillin,Anaphylaxis,32,294,82,8592,10.383,11.405,2.812,190.656,0.0,True
+Amoxicillin,Liver Injury,34,292,88,8586,10.28,11.361,2.81,201.294,0.0,True
+Azithromycin,Anaphylaxis,32,325,82,8561,9.448,10.28,2.694,169.747,0.0,True
+Amoxicillin,C. diff Colitis,25,301,78,8596,8.528,9.153,2.591,121.352,0.0,True
+Trastuzumab,Hair Loss,41,331,148,8480,6.425,7.097,2.32,145.735,0.0,True
+Paclitaxel,Infusion Reaction,43,321,163,8473,6.259,6.963,2.3,149.455,0.0,True
+Doxorubicin,Death,42,345,166,8447,5.631,6.195,2.17,126.757,0.0,True
+Rituximab,Neutropenia,35,289,168,8508,5.579,6.133,2.185,107.378,0.0,True
+Cetuximab,Neutropenia,38,322,165,8475,5.527,6.062,2.159,113.288,0.0,True
+Doxorubicin,Neutropenia,40,347,163,8450,5.462,5.976,2.134,115.962,0.0,True
+Trastuzumab,Cardiotoxicity,40,332,170,8458,5.457,5.994,2.141,116.878,0.0,True
+Cetuximab,Cardiotoxicity,38,322,172,8468,5.302,5.81,2.113,107.52,0.0,True
+Methotrexate,Infusion Reaction,36,316,170,8478,5.203,5.681,2.093,99.559,0.0,True
+Trastuzumab,Infusion Reaction,37,335,169,8459,5.078,5.528,2.057,98.193,0.0,True
+Rituximab,Hair Loss,30,294,159,8517,5.052,5.466,2.062,80.219,0.0,True
+Rituximab,Death,33,291,175,8501,5.05,5.509,2.068,88.717,0.0,True
+Amlodipine,Bradycardia,52,356,219,8373,5.0,5.585,2.038,135.187,0.0,True
+Doxorubicin,Cardiotoxicity,38,349,172,8441,4.917,5.343,2.014,96.035,0.0,True
+Paclitaxel,Cardiotoxicity,36,328,174,8462,4.909,5.338,2.021,91.632,0.0,True
+Losartan,Hypotension,50,308,249,8393,4.847,5.472,2.027,128.09,0.0,True
+Paclitaxel,Death,35,329,173,8463,4.8,5.204,1.994,86.304,0.0,True
+Atorvastatin,Angioedema,46,322,225,8407,4.796,5.338,2.005,114.93,0.0,True
+Methotrexate,Neutropenia,33,319,170,8478,4.769,5.159,1.989,80.893,0.0,True
+Clopidogrel,Myopathy,46,315,232,8407,4.745,5.292,1.997,113.744,0.0,True
+Hydrochlorothiazide,Angioedema,45,318,226,8411,4.738,5.267,1.993,110.769,0.0,True
+Doxorubicin,Hair Loss,33,354,156,8457,4.708,5.054,1.957,78.018,0.0,True
+Trastuzumab,Death,35,337,173,8455,4.692,5.076,1.964,83.332,0.0,True
+Cetuximab,Death,34,326,174,8466,4.69,5.074,1.968,81.259,0.0,True
+Paclitaxel,Hair Loss,31,333,158,8478,4.655,4.995,1.952,72.749,0.0,True
+Hydrochlorothiazide,Bleeding,47,316,241,8396,4.64,5.182,1.971,112.772,0.0,True
+Clopidogrel,Bradycardia,44,317,227,8412,4.639,5.144,1.969,105.209,0.0,True
+Methotrexate,Hair Loss,30,322,159,8489,4.636,4.974,1.95,70.288,0.0,True
+Omeprazole,Headache,98,283,493,8126,4.497,5.708,1.949,234.672,0.0,True
+Losartan,Myopathy,43,315,235,8407,4.417,4.883,1.912,96.069,0.0,True
+Methotrexate,Cardiotoxicity,32,320,178,8470,4.417,4.758,1.899,70.352,0.0,True
+Cetuximab,Infusion Reaction,32,328,174,8466,4.414,4.747,1.895,69.997,0.0,True
+Doxorubicin,Infusion Reaction,34,353,172,8441,4.399,4.727,1.882,73.31,0.0,True
+Amlodipine,Stroke,47,361,229,8363,4.322,4.755,1.868,99.77,0.0,True
+Warfarin,Stroke,42,317,234,8407,4.32,4.76,1.885,90.736,0.0,True
+Losartan,Angioedema,41,317,230,8412,4.303,4.73,1.879,87.983,0.0,True
+Paclitaxel,Neutropenia,31,333,172,8464,4.276,4.581,1.855,64.52,0.0,True
+Hydrochlorothiazide,Stroke,42,321,234,8403,4.271,4.699,1.869,89.057,0.0,True
+Metoprolol,Stroke,42,327,234,8397,4.198,4.609,1.847,86.61,0.0,True
+Atorvastatin,Myopathy,42,326,236,8396,4.174,4.583,1.84,85.939,0.0,True
+Metoprolol,Angioedema,41,328,230,8401,4.17,4.566,1.838,83.575,0.0,True
+Warfarin,Myopathy,41,318,237,8404,4.164,4.572,1.84,83.835,0.0,True
+Warfarin,Hypotension,44,315,255,8386,4.153,4.594,1.84,90.046,0.0,True
+Clopidogrel,Bleeding,42,319,246,8393,4.086,4.492,1.818,83.557,0.0,True
+Atorvastatin,Bradycardia,40,328,231,8401,4.062,4.435,1.806,78.353,0.0,True
+Amlodipine,Bleeding,46,362,242,8350,4.003,4.385,1.778,87.243,0.0,True
+Hydrochlorothiazide,Hypotension,43,320,256,8381,3.997,4.399,1.792,82.816,0.0,True
+Warfarin,Bleeding,41,318,247,8394,3.995,4.382,1.792,78.834,0.0,True
+Metoprolol,Bleeding,42,327,246,8385,3.993,4.378,1.788,80.428,0.0,True
+Methotrexate,Death,29,323,179,8469,3.98,4.248,1.772,54.31,0.0,True
+Atorvastatin,Hypotension,43,325,256,8376,3.94,4.329,1.773,80.849,0.0,True
+Clopidogrel,Hypotension,42,319,257,8382,3.911,4.294,1.766,78.228,0.0,True
+Losartan,Bradycardia,37,321,234,8408,3.817,4.142,1.733,65.894,0.0,True
+Rituximab,Cardiotoxicity,26,298,184,8492,3.784,4.027,1.717,45.217,0.0,True
+Amlodipine,Angioedema,41,367,230,8362,3.754,4.062,1.699,69.982,0.0,True
+Losartan,Stroke,36,322,240,8402,3.621,3.914,1.669,58.843,0.0,True
+Metoprolol,Hypotension,40,329,259,8372,3.612,3.93,1.666,65.29,0.0,True
+Clopidogrel,Stroke,36,325,240,8399,3.59,3.876,1.657,57.937,0.0,True
+Rituximab,Infusion Reaction,24,300,182,8494,3.531,3.734,1.63,37.034,0.0,True
+Cetuximab,Hair Loss,24,336,165,8475,3.491,3.669,1.604,35.76,0.0,True
+Warfarin,Bradycardia,34,325,237,8404,3.453,3.71,1.609,51.146,0.0,True
+Hydrochlorothiazide,Myopathy,35,328,243,8394,3.427,3.686,1.6,52.004,0.0,True
+Trastuzumab,Neutropenia,26,346,177,8451,3.407,3.588,1.576,37.231,0.0,True
+Metoprolol,Bradycardia,34,335,237,8394,3.356,3.595,1.571,48.504,0.0,True
+Losartan,Bleeding,35,323,253,8389,3.339,3.593,1.57,49.87,0.0,True
+Amlodipine,Myopathy,38,370,240,8352,3.334,3.574,1.555,53.164,0.0,True
+Atorvastatin,Bleeding,35,333,253,8379,3.245,3.481,1.532,47.231,0.0,True
+Amoxicillin,Diarrhea,75,251,626,8048,3.188,3.842,1.544,106.87,0.0,True
+Metoprolol,Myopathy,33,336,245,8386,3.151,3.362,1.493,42.036,0.0,True
+Diclofenac,Dizziness,73,273,594,8060,3.074,3.628,1.491,96.176,0.0,True
+Gabapentin,Dizziness,75,284,592,8049,3.049,3.591,1.478,96.985,0.0,True
+Omeprazole,Diarrhea,83,298,618,8001,3.038,3.606,1.468,106.48,0.0,True
+Clopidogrel,Angioedema,30,331,241,8398,2.979,3.158,1.424,34.296,0.0,True
+Amlodipine,Hypotension,37,371,262,8330,2.974,3.171,1.416,42.084,0.0,True
+Atorvastatin,Stroke,31,337,245,8387,2.968,3.149,1.418,35.189,0.0,True
+Hydrochlorothiazide,Bradycardia,30,333,241,8396,2.962,3.139,1.416,33.895,0.0,True
+Azithromycin,Rash,63,294,534,8109,2.856,3.254,1.393,70.97,0.0,True
+Warfarin,Angioedema,27,332,244,8397,2.663,2.799,1.282,24.456,0.0,True
+Azithromycin,Diarrhea,64,293,637,8006,2.432,2.745,1.188,51.741,0.0,True
+Ibuprofen,Dizziness,60,296,607,8037,2.4,2.684,1.17,46.744,0.0,True
+Amoxicillin,Rash,48,278,549,8125,2.326,2.555,1.132,34.408,0.0,True
+Ciprofloxacin,Rash,56,330,541,8073,2.31,2.532,1.114,39.06,0.0,True
+Ciprofloxacin,Diarrhea,62,324,639,7975,2.165,2.388,1.032,37.24,0.0,True
+Paclitaxel,Fatigue,55,309,656,7980,1.989,2.165,0.924,26.079,0.0,False
+Rituximab,Fatigue,49,275,662,8014,1.982,2.157,0.924,23.084,0.0,False
+Cetuximab,Fatigue,54,306,657,7983,1.973,2.144,0.913,24.975,0.0,False
+Trastuzumab,Fatigue,55,317,656,7972,1.945,2.108,0.893,24.303,0.0,False
+Methotrexate,Fatigue,52,300,659,7989,1.939,2.101,0.891,22.809,0.0,False
+Ibuprofen,Nausea,70,286,959,7685,1.772,1.961,0.775,23.952,0.0,False
+Azithromycin,Nausea,70,287,959,7684,1.767,1.954,0.771,23.698,0.0,False
+Methotrexate,Nausea,69,283,960,7688,1.766,1.953,0.77,23.309,0.0,False
+Insulin Glargine,Nausea,66,276,963,7695,1.735,1.911,0.748,20.917,0.0,False
+Metformin,Nausea,60,278,969,7693,1.587,1.713,0.628,13.204,0.00028,False
+Diclofenac,Nausea,61,285,968,7686,1.576,1.699,0.618,13.016,0.00031,False
+Rituximab,Nausea,55,269,974,7702,1.512,1.617,0.564,9.634,0.00191,False
+Doxorubicin,Fatigue,44,343,667,7946,1.468,1.528,0.518,6.201,0.01277,False
+Cetuximab,Nausea,58,302,971,7669,1.434,1.517,0.49,7.629,0.00574,False
+Doxorubicin,Nausea,61,326,968,7645,1.402,1.478,0.459,7.044,0.00795,False
+Ciprofloxacin,Nausea,59,327,970,7644,1.357,1.422,0.415,5.518,0.01882,False
+Amoxicillin,Nausea,49,277,980,7694,1.33,1.389,0.39,3.962,0.04654,False
+Paclitaxel,Nausea,53,311,976,7660,1.288,1.338,0.345,3.349,0.06726,False
+Trastuzumab,Nausea,54,318,975,7653,1.285,1.333,0.341,3.331,0.06798,False
+Warfarin,Headache,29,330,562,8079,1.242,1.263,0.293,1.147,0.28412,False
+Ciprofloxacin,Headache,31,355,560,8054,1.235,1.256,0.285,1.171,0.27913,False
+Metoprolol,Rash,29,340,568,8063,1.194,1.211,0.24,0.738,0.39015,False
+Clopidogrel,Headache,27,334,564,8075,1.146,1.157,0.184,0.367,0.5445,False
+Sertraline,Rash,28,349,569,8054,1.126,1.136,0.16,0.278,0.59823,False
+Metformin,Fatigue,29,309,682,7980,1.09,1.098,0.117,0.137,0.7117,False
+Doxorubicin,Headache,27,360,564,8049,1.065,1.07,0.086,0.052,0.81962,False
+Hydrochlorothiazide,Headache,25,338,566,8071,1.051,1.055,0.067,0.021,0.88597,False
+Atorvastatin,Dizziness,28,340,639,7993,1.028,1.03,0.037,0.002,0.96319,False
+Ibuprofen,Headache,24,332,567,8077,1.028,1.03,0.037,0.001,0.97863,False
+Metoprolol,Dizziness,28,341,639,7992,1.025,1.027,0.033,0.001,0.97523,False
+Warfarin,Fatigue,29,330,682,7959,1.023,1.026,0.032,0.001,0.97786,False
+Paclitaxel,Headache,24,340,567,8069,1.004,1.005,0.006,0.0,1.0,False
+Metformin,Dizziness,25,313,642,8020,0.998,0.998,-0.003,0.0,1.0,False
+Levothyroxine,Rash,24,340,573,8063,0.994,0.993,-0.009,0.0,1.0,False
+Amlodipine,Dizziness,29,379,638,7954,0.957,0.954,-0.059,0.02,0.88659,False
+Diclofenac,Rash,22,324,575,8079,0.957,0.954,-0.06,0.01,0.9208,False
+Amoxicillin,Dizziness,23,303,644,8030,0.95,0.946,-0.07,0.02,0.88693,False
+Diclofenac,Fatigue,26,320,685,7969,0.949,0.945,-0.071,0.029,0.86539,False
+Trastuzumab,Headache,23,349,568,8060,0.939,0.935,-0.085,0.039,0.84274,False
+Doxorubicin,Rash,24,363,573,8040,0.932,0.928,-0.095,0.06,0.80684,False
+Trastuzumab,Rash,23,349,574,8054,0.929,0.925,-0.099,0.063,0.80241,False
+Doxorubicin,Diarrhea,28,359,673,7940,0.926,0.92,-0.105,0.101,0.75006,False
+Losartan,Rash,22,336,575,8067,0.924,0.919,-0.108,0.073,0.78691,False
+Atorvastatin,Headache,22,346,569,8063,0.907,0.901,-0.133,0.128,0.72044,False
+Insulin Glargine,Dizziness,23,319,644,8014,0.904,0.897,-0.137,0.151,0.69763,False
+Cetuximab,Dizziness,24,336,643,7997,0.896,0.888,-0.15,0.2,0.6544,False
+Prednisone,Headache,19,304,572,8105,0.892,0.886,-0.155,0.153,0.69559,False
+Amoxicillin,Headache,19,307,572,8102,0.884,0.877,-0.168,0.189,0.66399,False
+Sertraline,Headache,22,355,569,8054,0.884,0.877,-0.167,0.23,0.63173,False
+Amlodipine,Rash,24,384,573,8019,0.882,0.875,-0.17,0.273,0.60165,False
+Rituximab,Dizziness,21,303,646,8030,0.87,0.862,-0.189,0.294,0.5874,False
+Omeprazole,Rash,22,359,575,8044,0.866,0.857,-0.196,0.34,0.55967,False
+Sertraline,Dizziness,24,353,643,7980,0.854,0.844,-0.215,0.477,0.4896,False
+Gabapentin,Headache,20,339,571,8070,0.843,0.834,-0.232,0.447,0.5038,False
+Gabapentin,Fatigue,24,335,687,7954,0.841,0.829,-0.236,0.594,0.44071,False
+Methotrexate,Dizziness,22,330,645,8003,0.838,0.827,-0.241,0.554,0.45652,False
+Rituximab,Rash,18,306,579,8097,0.832,0.823,-0.249,0.463,0.49633,False
+Levothyroxine,Headache,20,344,571,8065,0.831,0.821,-0.251,0.54,0.46232,False
+Clopidogrel,Rash,20,341,577,8062,0.829,0.819,-0.254,0.553,0.45692,False
+Levothyroxine,Fatigue,24,340,687,7949,0.829,0.817,-0.256,0.713,0.39853,False
+Losartan,Diarrhea,23,335,678,7964,0.819,0.806,-0.272,0.779,0.37759,False
+Amoxicillin,Fatigue,21,305,690,7984,0.81,0.797,-0.288,0.792,0.37361,False
+Ciprofloxacin,Dizziness,23,363,644,7970,0.797,0.784,-0.309,1.029,0.31045,False
+Metformin,Rash,18,320,579,8083,0.797,0.785,-0.309,0.763,0.3824,False
+Cetuximab,Rash,19,341,578,8062,0.789,0.777,-0.322,0.896,0.34378,False
+Cetuximab,Diarrhea,22,338,679,7961,0.778,0.763,-0.343,1.236,0.26615,False
+Sertraline,Diarrhea,23,354,678,7945,0.776,0.761,-0.346,1.326,0.2496,False
+Atorvastatin,Diarrhea,22,346,679,7953,0.76,0.745,-0.374,1.498,0.22092,False
+Losartan,Headache,18,340,573,8069,0.758,0.746,-0.376,1.189,0.27544,False
+Omeprazole,Fatigue,23,358,688,7931,0.756,0.741,-0.381,1.64,0.20028,False
+Metformin,Diarrhea,20,318,681,7981,0.753,0.737,-0.388,1.453,0.22805,False
+Rituximab,Diarrhea,19,305,682,7994,0.746,0.73,-0.4,1.467,0.22587,False
+Prednisone,Dizziness,18,305,649,8028,0.745,0.73,-0.402,1.384,0.23945,False
+Insulin Glargine,Diarrhea,20,322,681,7977,0.743,0.728,-0.405,1.594,0.2067,False
+Hydrochlorothiazide,Rash,18,345,579,8058,0.74,0.726,-0.41,1.443,0.22971,False
+Prednisone,Rash,16,307,581,8096,0.74,0.726,-0.41,1.258,0.26203,False
+Clopidogrel,Diarrhea,21,340,680,7959,0.739,0.723,-0.413,1.76,0.18466,False
+Amlodipine,Headache,20,388,571,8021,0.738,0.724,-0.413,1.657,0.19806,False
+Hydrochlorothiazide,Diarrhea,21,342,680,7957,0.735,0.719,-0.42,1.834,0.17567,False
+Hydrochlorothiazide,Dizziness,20,343,647,7990,0.735,0.72,-0.419,1.715,0.19037,False
+Metoprolol,Headache,18,351,573,8058,0.735,0.721,-0.419,1.513,0.21872,False
+Paclitaxel,Dizziness,20,344,647,7989,0.733,0.718,-0.423,1.75,0.18587,False
+Clopidogrel,Fatigue,21,340,690,7949,0.728,0.712,-0.433,1.954,0.16215,False
+Methotrexate,Headache,17,335,574,8074,0.728,0.714,-0.432,1.519,0.21776,False
+Hydrochlorothiazide,Fatigue,21,342,690,7947,0.724,0.707,-0.44,2.032,0.15399,False
+Trastuzumab,Diarrhea,21,351,680,7948,0.716,0.699,-0.455,2.181,0.1397,False
+Amlodipine,Diarrhea,23,385,678,7914,0.714,0.697,-0.458,2.45,0.11753,False
+Atorvastatin,Fatigue,21,347,690,7942,0.714,0.697,-0.46,2.233,0.13512,False
+Ibuprofen,Diarrhea,20,336,681,7963,0.713,0.696,-0.462,2.128,0.14466,False
+Ibuprofen,Rash,17,339,580,8064,0.712,0.697,-0.463,1.766,0.18392,False
+Cetuximab,Headache,17,343,574,8066,0.711,0.696,-0.464,1.778,0.1824,False
+Amlodipine,Fatigue,23,385,688,7904,0.704,0.686,-0.478,2.69,0.10095,False
+Prednisone,Fatigue,18,305,693,7984,0.698,0.68,-0.492,2.173,0.14044,False
+Paclitaxel,Diarrhea,20,344,681,7955,0.697,0.679,-0.493,2.457,0.11697,False
+Diclofenac,Headache,16,330,575,8079,0.696,0.681,-0.493,1.896,0.16856,False
+Methotrexate,Rash,16,336,581,8067,0.677,0.661,-0.531,2.24,0.13452,False
+Azithromycin,Dizziness,18,339,649,7994,0.671,0.654,-0.543,2.692,0.10087,False
+Losartan,Dizziness,18,340,649,7993,0.67,0.652,-0.547,2.735,0.09818,False
+Losartan,Fatigue,19,339,692,7950,0.663,0.644,-0.562,3.084,0.07909,False
+Diclofenac,Diarrhea,18,328,683,7971,0.659,0.64,-0.569,2.988,0.08389,False
+Insulin Glargine,Fatigue,18,324,693,7965,0.658,0.639,-0.573,3.031,0.08169,False
+Paclitaxel,Rash,16,348,581,8055,0.653,0.637,-0.579,2.702,0.10022,False
+Rituximab,Headache,14,310,577,8099,0.65,0.634,-0.587,2.396,0.12165,False
+Metoprolol,Fatigue,19,350,692,7939,0.642,0.623,-0.605,3.618,0.05717,False
+Warfarin,Diarrhea,18,341,683,7958,0.634,0.615,-0.622,3.617,0.05721,False
+Azithromycin,Headache,15,342,576,8067,0.63,0.614,-0.627,2.999,0.0833,False
+Metoprolol,Nausea,27,342,1002,7629,0.63,0.601,-0.634,6.021,0.01413,False
+Warfarin,Dizziness,17,342,650,7991,0.63,0.611,-0.631,3.506,0.06115,False
+Gabapentin,Nausea,26,333,1003,7638,0.624,0.595,-0.649,6.062,0.01381,False
+Metformin,Headache,14,324,577,8085,0.622,0.605,-0.646,2.967,0.08498,False
+Levothyroxine,Dizziness,17,347,650,7986,0.621,0.602,-0.651,3.747,0.0529,False
+Warfarin,Rash,15,344,582,8059,0.62,0.604,-0.649,3.238,0.07196,False
+Trastuzumab,Dizziness,17,355,650,7978,0.607,0.588,-0.682,4.143,0.0418,False
+Gabapentin,Diarrhea,17,342,684,7957,0.598,0.578,-0.702,4.421,0.03549,False
+Ibuprofen,Fatigue,17,339,694,7950,0.595,0.574,-0.71,4.537,0.03317,False
+Azithromycin,Fatigue,17,340,694,7949,0.593,0.573,-0.714,4.592,0.03212,False
+Amlodipine,Nausea,28,380,1001,7591,0.589,0.559,-0.726,8.35,0.00386,False
+Clopidogrel,Dizziness,16,345,651,7988,0.588,0.569,-0.724,4.422,0.03548,False
+Prednisone,Diarrhea,15,308,686,7991,0.587,0.567,-0.727,4.171,0.04113,False
+Methotrexate,Diarrhea,16,336,685,7963,0.574,0.554,-0.759,4.906,0.02676,False
+Atorvastatin,Rash,14,354,583,8049,0.563,0.546,-0.781,4.493,0.03403,False
+Atorvastatin,Nausea,24,344,1005,7627,0.56,0.529,-0.797,8.642,0.00329,False
+Ciprofloxacin,Fatigue,17,369,694,7920,0.547,0.526,-0.825,6.281,0.0122,False
+Doxorubicin,Dizziness,16,371,651,7962,0.547,0.527,-0.823,5.838,0.01568,False
+Metoprolol,Diarrhea,16,353,685,7946,0.546,0.526,-0.826,5.896,0.01518,False
+Gabapentin,Rash,13,346,584,8057,0.536,0.518,-0.849,4.983,0.0256,False
+Warfarin,Nausea,22,337,1007,7634,0.526,0.495,-0.885,9.854,0.00169,False
+Insulin Glargine,Headache,12,330,579,8079,0.525,0.507,-0.877,4.912,0.02666,False
+Insulin Glargine,Rash,12,330,585,8073,0.519,0.502,-0.891,5.092,0.02404,False
+Sertraline,Fatigue,15,362,696,7927,0.493,0.472,-0.966,7.762,0.00533,False
+Levothyroxine,Diarrhea,14,350,687,7949,0.483,0.463,-0.993,7.648,0.00568,False
+Prednisone,Nausea,17,306,1012,7665,0.451,0.421,-1.097,11.972,0.00054,False
+Omeprazole,Dizziness,12,369,655,7964,0.414,0.395,-1.201,9.891,0.00166,False
+Sertraline,Nausea,18,359,1011,7612,0.407,0.378,-1.237,16.55,5e-05,False
+Omeprazole,Nausea,18,363,1011,7608,0.403,0.373,-1.252,16.999,4e-05,False
+Losartan,Nausea,16,342,1013,7629,0.381,0.352,-1.328,17.147,3e-05,False
+Clopidogrel,Nausea,16,345,1013,7626,0.378,0.349,-1.34,17.492,3e-05,False
+Hydrochlorothiazide,Nausea,16,347,1013,7624,0.376,0.347,-1.348,17.722,3e-05,False
+Levothyroxine,Nausea,16,348,1013,7623,0.375,0.346,-1.352,17.837,2e-05,False

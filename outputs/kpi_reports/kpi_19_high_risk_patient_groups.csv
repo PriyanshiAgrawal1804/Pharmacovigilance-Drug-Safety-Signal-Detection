@@ -1,0 +1,10 @@
+Age_Group,Gender,ADR_Count,Serious_Pct
+Adult,Female,2361,27.23
+Adult,Male,2523,28.5
+Adult,unknown,15,33.33
+Elderly,Female,1070,28.13
+Elderly,Male,1195,30.29
+Elderly,unknown,8,25.0
+Pediatric,Female,780,27.95
+Pediatric,Male,767,28.03
+Pediatric,unknown,4,25.0

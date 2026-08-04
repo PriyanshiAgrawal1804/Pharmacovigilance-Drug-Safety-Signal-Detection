@@ -1,0 +1,26 @@
+Drug_ID,Drug_Name,Manufacturer,Drug_Class,Approval_Date,Therapeutic_Area,Generic_Name,Brand_Name
+D001,Amoxicillin,Pfizer,Antibiotic,1999-12-30,Antibiotic,Amoxicillin,Amoxil
+D002,Metformin,Sun Pharma,Antidiabetic,1996-02-14,Antidiabetic,Metformin,Glucophage
+D003,Atorvastatin,Pfizer,Cardiology,2007-05-04,Cardiology,Atorvastatin,Lipitor
+D004,Ibuprofen,GSK,Pain Management,2005-12-26,Pain Management,Ibuprofen,Advil
+D005,Omeprazole,AstraZeneca,Gastroenterology,2005-01-05,Gastroenterology,Omeprazole,Prilosec
+D006,Paclitaxel,Bristol-Myers Squibb,Oncology,2001-04-05,Oncology,Paclitaxel,Taxol
+D007,Insulin Glargine,Sanofi,Antidiabetic,1999-08-07,Antidiabetic,Insulin Glargine,Lantus
+D008,Losartan,Novartis,Cardiology,2019-06-19,Cardiology,Losartan,Cozaar
+D009,Azithromycin,Pfizer,Antibiotic,1998-11-25,Antibiotic,Azithromycin,Zithromax
+D010,Warfarin,Bristol-Myers Squibb,Cardiology,2021-06-27,Cardiology,Warfarin,Coumadin
+D011,Rituximab,Roche,Oncology,2013-12-04,Oncology,Rituximab,Rituxan
+D012,Sertraline,Pfizer,Psychiatry,1996-06-04,Psychiatry,Sertraline,Zoloft
+D013,Clopidogrel,Sanofi,Cardiology,1996-05-03,Cardiology,Clopidogrel,Plavix
+D014,Ciprofloxacin,Bayer,Antibiotic,1999-03-16,Antibiotic,Ciprofloxacin,Cipro
+D015,Trastuzumab,Roche,Oncology,2004-10-22,Oncology,Trastuzumab,Herceptin
+D016,Levothyroxine,AbbVie,Endocrinology,2005-06-08,Endocrinology,Levothyroxine,Synthroid
+D017,Amlodipine,Pfizer,Cardiology,2017-09-01,Cardiology,Amlodipine,Norvasc
+D018,Gabapentin,Pfizer,Neurology,2022-01-02,Neurology,Gabapentin,Neurontin
+D019,Prednisone,Novartis,Immunology,1996-03-10,Immunology,Prednisone,Deltasone
+D020,Methotrexate,Sanofi,Oncology,2020-03-05,Oncology,Methotrexate,Trexall
+D021,Hydrochlorothiazide,Novartis,Cardiology,2003-12-02,Cardiology,Hydrochlorothiazide,Microzide
+D022,Doxorubicin,Pfizer,Oncology,2019-06-12,Oncology,Doxorubicin,Adriamycin
+D023,Metoprolol,Novartis,Cardiology,2013-10-26,Cardiology,Metoprolol,Lopressor
+D024,Cetuximab,Eli Lilly,Oncology,2004-11-20,Oncology,Cetuximab,Erbitux
+D025,Diclofenac,Novartis,Pain Management,2015-02-24,Pain Management,Diclofenac,Voltaren
